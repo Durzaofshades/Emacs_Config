@@ -1,0 +1,11 @@
+#-*- mode: org -*-
+#+STARTUP: showall
+
+org mode stuff
+
+* Headline
+
+* Headline
+
+** Subline 1
+** Subline 2
